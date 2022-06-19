@@ -1,7 +1,6 @@
 #include <iostream>
 
-int main() {
-	std::cout << "stuff and things";
-
-	return 0;
+extern float pow2(float a) {
+	std::cout << a * a<< "kapow";
+	return a;	
 }
