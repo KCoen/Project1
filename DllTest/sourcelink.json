@@ -1,0 +1,8 @@
+{
+  "documents": {
+    "C:\\repo\\test_sourcelink\\Project1\\DllTest\\dllmain.cpp": "https://raw.githubusercontent.com/KCoen/Project1/master/DllTest/dllmain.cpp",
+    "C:\\repo\\test_sourcelink\\Project1\\DllTest\\pch.cpp": "https://raw.githubusercontent.com/KCoen/Project1/master/DllTest/pch.cpp",
+    "C:\\repo\\test_sourcelink\\Project1\\DllTest\\pch.h": "https://raw.githubusercontent.com/KCoen/Project1/master/DllTest/pch.h",
+    "C:\\repo\\test_sourcelink\\Project1\\DllTest\\framework.h": "https://raw.githubusercontent.com/KCoen/Project1/master/DllTest/framework.h"
+  }
+}
